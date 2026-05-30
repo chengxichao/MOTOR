@@ -1,7 +1,6 @@
-
-void start(void)
+void stop(void)
 {
-	printf("start\n");
+	printf("stop\n");
 }
 void run(void)
 {
